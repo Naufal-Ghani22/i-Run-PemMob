@@ -7,4 +7,13 @@
     android:layout_height="match_parent"
     tools:context=".Beranda">
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="278dp"
+        android:layout_height="56dp"
+        
+        android:text="Button"
+        tools:layout_editor_absoluteX="66dp"
+        tools:layout_editor_absoluteY="624dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
